@@ -21,8 +21,8 @@ This is a modern and user-friendly calculator application built with `customtkin
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/modern-calculator.git
-   cd modern-calculator
+   git clone https://github.com/Selinoztrk/Calculator.git
+   cd Calculator
    ```
 
 2. Install dependencies:
